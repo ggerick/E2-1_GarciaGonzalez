@@ -3,3 +3,8 @@
 /Users/AlanGarcia/Projects/E2-1_Garciagonzalez/E2-1_Garciagonzalez/obj/x86/Debug/E2-1_Garciagonzalez.csproj.CoreCompileInputs.cache
 /Users/AlanGarcia/Projects/E2-1_Garciagonzalez/E2-1_Garciagonzalez/obj/x86/Debug/E2-1_Garciagonzalez.exe
 /Users/AlanGarcia/Projects/E2-1_Garciagonzalez/E2-1_Garciagonzalez/obj/x86/Debug/E2-1_Garciagonzalez.pdb
+/Users/AlanGarcia/Documents/GitHub/E2-1_GarciaGonzalez/E2-1_Garciagonzalez/E2-1_Garciagonzalez/bin/Debug/E2-1_Garciagonzalez.exe
+/Users/AlanGarcia/Documents/GitHub/E2-1_GarciaGonzalez/E2-1_Garciagonzalez/E2-1_Garciagonzalez/bin/Debug/E2-1_Garciagonzalez.pdb
+/Users/AlanGarcia/Documents/GitHub/E2-1_GarciaGonzalez/E2-1_Garciagonzalez/E2-1_Garciagonzalez/obj/x86/Debug/E2-1_Garciagonzalez.csproj.CoreCompileInputs.cache
+/Users/AlanGarcia/Documents/GitHub/E2-1_GarciaGonzalez/E2-1_Garciagonzalez/E2-1_Garciagonzalez/obj/x86/Debug/E2-1_Garciagonzalez.exe
+/Users/AlanGarcia/Documents/GitHub/E2-1_GarciaGonzalez/E2-1_Garciagonzalez/E2-1_Garciagonzalez/obj/x86/Debug/E2-1_Garciagonzalez.pdb

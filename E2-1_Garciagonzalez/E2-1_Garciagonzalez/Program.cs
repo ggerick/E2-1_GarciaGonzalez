@@ -14,7 +14,7 @@ namespace E21_Garciagonzalez
             }
 
         }
-        public int Recursividad(int n)
+        public long Recursividad(long n)
         {
             if( n == 0)
             {
@@ -30,10 +30,16 @@ namespace E21_Garciagonzalez
         {
             Factorial obj = new Factorial();
             Console.WriteLine("\tCon ciclo for");
+            var watch = System.Diagnostics.Stopwatch.StartNew();
             obj.ciclofor();
+            watch.Stop();
+            Console.WriteLine(watch.Elapsed.ToString());
             Console.Write("\tIntroduce el numero a calcular su factorial mediante recursividad: ");
-            int num = int.Parse(Console.ReadLine());
+            long num = int.Parse(Console.ReadLine());
+            watch.Start();
             Console.WriteLine(obj.Recursividad(num));
+            watch.Stop();
+            Console.WriteLine(watch.Elapsed.ToString());
         }
     }
 }
